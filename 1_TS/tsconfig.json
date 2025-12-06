@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es2020",
+    "outDir": "./build/js",
+    "rootDir": "./src",
+    "strict": true,
+    "noEmitOnError": false//if it is true it won't compile if there is error in typescript
+  }
+}
