@@ -1,0 +1,6 @@
+Type Script is statically typed language which enforce strict data type
+These are checked at compile time
+
+Javascript is dynamic typed language which means they are checked at Run time
+
+TS benefits, self documenting, Catch Errors in Dev,Great for teams
